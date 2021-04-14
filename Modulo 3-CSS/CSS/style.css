@@ -1,0 +1,165 @@
+
+/*-----------------------------------------------------*/
+ /*Leccion numero 6 - Bordes */
+
+/*.borde1{
+    width: 500px;
+    height: 200px;*/
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    border: dotted;*/
+   /* background-color: pink;
+    border-radius: 10px 100px 10px 100px;
+
+}*/
+
+/*-----------------------------------------------------*/
+
+ /*Leccion numero 5 - Fondos */
+/* #contenedor{
+    border: solid 2px black;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    margin: 200px;*/
+
+    /*background-color: #69A336;*/
+ /*   background-image: url(https://dev-res.thumbr.io/libraries/53/16/12/01/lib/1595418746190_1.png?size=854x493s&ext=jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100%;*/
+    /*background-attachment: fixed;*/
+
+/*
+    background: #E81111 url(https://dev-res.thumbr.io/libraries/53/16/12/01/lib/1595418746190_1.png?size=854x493s&ext=jpg) no-repeat fixed;
+
+ }
+ #contenedor2{
+    height: 1200px;
+ }
+*/
+
+/*-----------------------------------------------------*/
+
+
+ /*Leccion numero 4 - Tamaños */
+/*
+ section{
+    background: black;
+ }
+ section div{
+    height: 200px;
+    width: 500px;*/
+    /*overflow:scroll;
+    overflow-x: scroll;*/
+
+    /* margin: auto;*/
+    /*margin:10px 10px 10px 10px;
+    margin-left:;
+    margin-right:;
+    margin-bottom:;
+    margin-top:;*/
+/*
+padding:10px 100px 10px 10px;
+    padding-left:;
+    padding-right: ;
+    padding-bottom: ;
+    padding-top: ; 
+ }
+ #uno{
+    background: #EE1919;
+ }
+ #dos{
+    background: #197906;
+ }*/
+
+
+ /*-----------------------------------------------------*/
+
+
+ /*Leccion numero 3 - colores */
+/*h1{
+    color: #E21F1F;
+}*/
+
+/*
+hexadecimal
+rgb(rojo,verde,azul)
+rgba(rojo,verde,azul,alfa)
+hsl(matiz,saturación,luminosidad)
+hsla(matiz,saturación,luminosidad,alfa)
+nombre de color.
+*/
+
+/*-----------------------------------------------------*/
+
+
+/*Leccion numero 2 - Texto*/
+/*
+ *{
+    font-family: Arial, Vernada;
+}
+ 
+.verdana{
+    font-family: Verdana;
+    font-weight: 600;
+    letter-spacing: 10px;
+    text-align: center;
+}
+ 
+p{
+    /*font: bold 17px Thahoma;*/
+   /* font-size: 17px;
+    font-style: italic;
+}
+ 
+#texto{
+    /*text-align-last: right;*/
+   /* text-indent:20px;
+    line-height: 20px;
+}
+ 
+#texto img{
+    vertical-align: text-top;
+}
+ 
+#texto a{
+    text-decoration: none;
+} */
+
+
+/*----------------------------------------------------------------------*/
+
+
+/*Lecciones anteriores*/
+
+/*#principal{
+	border: solid 2px black;
+
+}*/
+
+
+/*section{
+	background: black;
+	color: white;
+}
+p, li{
+	background: black;
+	color: white;
+}
+
+header p{
+	background: #CE4343;
+
+}
+
+Esta flecha se utiliza cuando se quiere afectar un elemento hijo, dentro de un elemento padre
+div > p{
+	background: blue;
+	color: white;
+}
+
+/*Con el signo de " + " afecta unicamente 1 de los siguientes " li " pero si lo cambio por " ~ " afecta todos los " li "" 
+h2 + li{
+	background: red;
+}*/
